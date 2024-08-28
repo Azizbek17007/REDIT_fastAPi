@@ -1,5 +1,3 @@
-# REDIT_fastAPi
-
 # READIT website uchun API
 Bugungi darsda biz ReadIT sayti uchun fastapi va sqlalchemy yordamida API chiqaramiz. Bunda bizga 'database.py', 'models.py', 'schemas.py' va 'main.py' fayllarimiz kerak bo'ladi
 
